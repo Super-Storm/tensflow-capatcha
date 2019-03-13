@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+# 使用KMeans实现验证码识别
+#   Author  :   fx
+#   E-mail  :   pythonist@126.com
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.factorization import KMeans
